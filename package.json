@@ -1,0 +1,18 @@
+{
+  "name": "projeto_t5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc && jest ./dist && rm -rf ./dist",
+    "coverage": "tsc && jest ./dist --coverage && rm -rf ./dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "jest": "^27.5.1",
+    "typescript": "^4.5.5"
+  }
+}
