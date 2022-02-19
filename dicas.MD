@@ -53,6 +53,6 @@ test('Deve testar A', function () {
 
 - npm run test
 
-## Opcionais
+## Optional
 
 - npm install ts-node ts-jest
